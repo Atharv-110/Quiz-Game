@@ -2,7 +2,8 @@
                                        Date - 08/08/21
                                   Project Name - Quiz Game
                                     Author - Atharv Vani
-                                        C++ - Language
+                                Co-Author - Priyanshi Agrawal
+                                       C++ - Language
 */
 #include <iostream>
 #include <stdio.h>
